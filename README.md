@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" alt="HTML logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg](https://cdn.worldvectorlogo.com/logos/css-3.svg)" height="40" alt="CSS logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" alt="CSS logo"  />
 </div>
 
 ###
